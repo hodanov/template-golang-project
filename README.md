@@ -11,6 +11,7 @@ This is my Go project layout.
 ├── _tools/
 ├── cmd/
 │   └── mygoapp/
+│       └── main.go
 ├── go.mod
 ├── internal/
 ├── logger/

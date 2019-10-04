@@ -2,7 +2,7 @@
 
 This is my Go project layout.
 
-# Directory layout
+## Directory layout
 
 ```
 .
@@ -22,3 +22,7 @@ This is my Go project layout.
 ├── type_test.go
 └── version.go
 ```
+
+## Author
+
+[Hoda](https://hodalog.com)
